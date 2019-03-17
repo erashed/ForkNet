@@ -9,6 +9,7 @@ This code is compatable with Mathematica 11.3 and byond and tested over Windows 
 
 -> Input images are in MATLAB "*.mat" formats for easy use 
 -> To Run Select Evaluation -> Evaluate Notebook 
+-> If you are not familier with Mathematica Notebooks (*.nb), you can download free reader from here: http://www.wolfram.com/cdf-player/
 
 -----------------------------------------------------
 "ForkNet.nb"
@@ -29,18 +30,31 @@ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 This notebook will use a pretrained network to segment MRI. Use the following papermeters for different anatomical tissue
 
 Tissue values
+
 1> Cerebellum
+
 2> CSF
+
 3> Blood
+
 4> Bone (Cortical)
+
 5> WM
+
 6> Mucous
+
 7> Dura
+
 8> Fat
+
 9> Bone (Cancellous)
+
 10> GM
+
 11> Vitreous Humor
+
 12> Muscle
+
 
 -----------------------------------------------------
 Other files
