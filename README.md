@@ -8,7 +8,9 @@ This code aims at mapping MRI image with segmented labels of different anatomica
 This code is compatable with Mathematica 11.3 and byond and tested over Windows 10, Ubuntu 16.04, and OSX 10.11.6. More details are in our paper mentioned below. If you are using this code, please refer to our paper.
 
 -> Input images are in MATLAB "*.mat" formats for easy use 
+
 -> To Run Select Evaluation -> Evaluate Notebook 
+
 -> If you are not familier with Mathematica Notebooks (*.nb), you can download free reader from here: http://www.wolfram.com/cdf-player/
 
 -----------------------------------------------------
