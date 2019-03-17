@@ -43,7 +43,7 @@ Tissue values
 
 5> WM
 
-6> Mucous
+6> Mucous tissue
 
 7> Dura
 
