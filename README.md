@@ -1,7 +1,7 @@
 # ForkNet
 
 Copyrights (c) 2019, Essam Rashed 
-(essam.rashed@nitech.ac.jp), NITech, Nagoya, JP 
+(essam (dot) rashed (at-sign) nitech.ac.jp), NITech, Nagoya, JP 
 
 This code aims at mapping MRI image with segmented labels of different anatomical structure. The design of ForkNet is based on unified encoders and individual decoders. This implementation is for ForkNet (N=2) to segment MRI images of GM & WM. However, it can be easily extended to arbitrary any N.
  
