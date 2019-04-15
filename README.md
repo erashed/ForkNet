@@ -3,7 +3,7 @@
 Copyrights (c) 2019, Essam Rashed 
 (essam (dot) rashed (at-sign) nitech.ac.jp), NITech, Nagoya, JP 
 
-This code aims at mapping MRI image with segmented labels of different anatomical structure. The design of ForkNet is based on unified encoders and individual decoders. This implementation is for ForkNet (N=2) to segment MRI images of GM & WM. However, it can be easily extended to arbitrary any N.
+This code aims at mapping MRI image with segmented labels of different anatomical structures. The design of ForkNet is based on unified encoders and individual decoders. This implementation is for ForkNet (N=2) to segment MRI images of GM & WM. However, it can be easily extended to arbitrary any N.
  
 This code is compatable with Mathematica 11.3 and byond and tested over Windows 10, Ubuntu 16.04, and OSX 10.11.6. More details are in our paper mentioned below. If you are using this code, please refer to our paper.
 
@@ -23,7 +23,7 @@ Output: Trained Network + loss function (training/validation) values
 -----------------------------------------------------
 "UNet.nb"
 
-This notebook will train the UNet architecture to segmnet MRI head image into WM and GM. Input and output is similar to the above notebook. Details about UNet can be found here:
+This notebook will train the UNet architecture to segmnet MRI head image into WM and GM. Input and output are similar to the above notebook. Details about UNet can be found here:
 https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
 -----------------------------------------------------
@@ -64,7 +64,7 @@ Other files
 "Arch/ForkNet_N_2.nb" 
 "Arch/UNet_N_2.nb"
 "Arch/NetModules.nb"
-Network architecture (called automatically)
+-> Network architecture (called automatically)
 
 "Test/ForkNet_Test.nb	" 
 "Test/PreTrained_Test.nb"
