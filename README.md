@@ -92,4 +92,4 @@ Open in Mathematica (11.3 or above), Evalute -> Evaluate Notebook
 -----------------------------------------------------
 Reference
 
-E. A. Rashed, J. Gomez-tames, A. Hirata "Development of accurate human head model for personalized dosimetry using deep learning," NeuroImage, 2019 (in press)
+E. A. Rashed, J. Gomez-tames, A. Hirata "Development of accurate human head model for personalized dosimetry using deep learning," NeuroImage, 2019 (doi: 0.1016/j.neuroimage.2019.116132) (in press)
