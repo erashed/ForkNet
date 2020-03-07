@@ -89,8 +89,9 @@ Other files
 How to use
 
 Open in Mathematica (11.3 or above), Evalute -> Evaluate Notebook
------------------------------------------------------
-Reference
+
+References
+----------
 
 * E. A. Rashed, J. Gomez-Tames, A. Hirata "Development of accurate human head model for personalized dosimetry using deep learning," NeuroImage, 116132, 2019 (doi: https://doi.org/10.1016/j.neuroimage.2019.116132)
 
