@@ -5,7 +5,7 @@ Copyrights (c) 2019, Essam Rashed
 
 This code aims at mapping MRI image with segmented labels of different anatomical structures. The design of ForkNet is based on unified encoders and individual decoders. This implementation is for ForkNet (N=2) to segment MRI images of GM & WM. However, it can be easily extended to arbitrary any N.
  
-This code is compatable with Mathematica 11.3 and byond and tested over Windows 10, Ubuntu 16.04, and OSX 10.11.6. More details are in our paper mentioned below. If you are using this code, please refer to our paper.
+This code is compatible with Mathematica 11.3 and beyond and tested over Windows 10, Ubuntu 16.04, and OSX 10.11.6. More details are in our paper mentioned below. If you are using this code, please refer to our paper.
 
 -> Input images are in MATLAB "*.mat" formats for easy use 
 
