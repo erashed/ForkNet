@@ -2,6 +2,7 @@
 
 Copyrights (c) 2019, Essam Rashed 
 (essam (dot) rashed (at-sign) nitech.ac.jp), NITech, Nagoya, JP 
+https://erashed.weebly.com
 
 This code aims at mapping MRI image with segmented labels of different anatomical structures. The design of ForkNet is based on unified encoders and individual decoders. This implementation is for ForkNet (N=2) to segment MRI images of GM & WM. However, it can be easily extended to arbitrary any N.
  
@@ -96,5 +97,3 @@ References
 * E. A. Rashed, J. Gomez-Tames and A. Hirata, "Development of accurate human head model for personalized dosimetry using deep learning," NeuroImage, 116132, 2019 (doi: https://doi.org/10.1016/j.neuroimage.2019.116132)
 
 * E. A. Rashed, J. Gomez-Tames and A. Hirata, "Generation of head models for brain stimulation using deep convolution networks," IEEE International Conference on Image Processing (ICIP2019), Taipei, Taiwan, Sept. 2019 (doi: https://doi.org/10.1109/ICIP.2019.8803334)
-
-* E. A. Rashed, J. Gomez-Tames and A. Hirata, Influence of segmentation accuracy in structural MRI scans on electromagnetic dosimetry," International Conference on Image Processing (ICIP2020), Abu Dhabi, UAE, Oct. 2020 (scheduled)
