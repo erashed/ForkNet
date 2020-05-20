@@ -93,6 +93,8 @@ Open in Mathematica (11.3 or above), Evalute -> Evaluate Notebook
 References
 ----------
 
-* E. A. Rashed, J. Gomez-Tames, A. Hirata "Development of accurate human head model for personalized dosimetry using deep learning," NeuroImage, 116132, 2019 (doi: https://doi.org/10.1016/j.neuroimage.2019.116132)
+* E. A. Rashed, J. Gomez-Tames and A. Hirata, "Development of accurate human head model for personalized dosimetry using deep learning," NeuroImage, 116132, 2019 (doi: https://doi.org/10.1016/j.neuroimage.2019.116132)
 
 * E. A. Rashed, J. Gomez-Tames and A. Hirata, "Generation of head models for brain stimulation using deep convolution networks," IEEE International Conference on Image Processing (ICIP2019), Taipei, Taiwan, Sept. 2019 (doi: https://doi.org/10.1109/ICIP.2019.8803334)
+
+* E. A. Rashed, J. Gomez-Tames and A. Hirata, Influence of segmentation accuracy in structural MRI scans on electromagnetic dosimetry," International Conference on Image Processing (ICIP2020), Abu Dhabi, UAE, Oct. 2020 (scheduled)
