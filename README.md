@@ -1,5 +1,9 @@
 # ForkNet
 
+--------------
+UPDATE: ForkNet is included in Wolfram Neural Net Repository (https://resources.wolframcloud.com/NeuralNetRepository/resources/ForkNet-Brain-Segmentation-Net-Trained-on-NAMIC-Data)
+--------------
+
 Copyrights (c) 2019, Essam Rashed 
 (essam (dot) rashed (at-sign) nitech.ac.jp), NITech, Nagoya, JP 
 https://erashed.weebly.com
@@ -98,4 +102,4 @@ References
 
 * E. A. Rashed, J. Gomez-Tames and A. Hirata, "Generation of head models for brain stimulation using deep convolution networks," IEEE International Conference on Image Processing (ICIP2019), Taipei, Taiwan, Sept. 2019 (doi: https://doi.org/10.1109/ICIP.2019.8803334)
 
-UPDATE: ForkNet is included in Wolfram Neural Net Repository (https://resources.wolframcloud.com/NeuralNetRepository/resources/ForkNet-Brain-Segmentation-Net-Trained-on-NAMIC-Data)
+
