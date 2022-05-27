@@ -1,6 +1,14 @@
 # ForkNet
 
 --------------
+UPDATE: 27 May 2022
+--------------
+Trained network in different directions (axial/sagital/coronal) are added in folder /TrainedNetworks3D/
+Codes to perform segmentation in (axial/sagital/coronal) directions are added in folder /Test_3D/
+
+
+
+--------------
 UPDATE: ForkNet is included in Wolfram Neural Net Repository (https://resources.wolframcloud.com/NeuralNetRepository/resources/ForkNet-Brain-Segmentation-Net-Trained-on-NAMIC-Data)
 --------------
 
